@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">xyzvizmertekalkalmazas</string>
+    <string name="xTextView">TextView</string>
+    <string name="yTextView">TextView</string>
+    <string name="zTextView">TextView</string>
+    <string name="v_zm_rt_k">Vízmérték!</string>
+</resources>
